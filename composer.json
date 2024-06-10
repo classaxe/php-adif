@@ -1,6 +1,6 @@
 {
     "name": "classaxe/php-adif",
-    "version": "1.0.2",
+    "version": "1.0.5",
     "description": "Ham Radio ADIF File format parser",
     "type": "library",
     "license": "MIT",
