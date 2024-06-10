@@ -4,6 +4,9 @@
     "description": "Ham Radio ADIF File format parser",
     "type": "library",
     "license": "MIT",
+    "require": {
+        "php": "8.*"
+    },
     "require-dev": {
         "phpunit/phpunit": "^10.1"
     },
