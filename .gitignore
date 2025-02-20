@@ -2,5 +2,8 @@
 /.project
 /.settings/org.eclipse.core.resources.prefs
 /.settings/org.eclipse.php.core.prefs
+/vendor
+composer.lock
 .idea
 .env
+.phpunit.result.cache
